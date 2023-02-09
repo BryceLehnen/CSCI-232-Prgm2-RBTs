@@ -1,0 +1,17 @@
+Lowest temperature anomaly (F): -1.48 on 15/12/1916
+
+Highest temperature anomaly (F): 2.47 on 15/2/2016
+On that same date, the average CO2 concentration was 403.27
+
+Lowest sea level rise: -204.38 on 15/01/1883
+On that same date, the temperature anomaly (F) was -0.5
+
+Highest sea level rise: 68.81 on 15/1/2020
+On that same date, the temperature anomaly (F) was 2.09
+On that same date, the average CO2 concentration was 412.43
+
+Lowest average CO2 concentration: 337.05 on 15/9/1980
+On that same date, the temperature anomaly (F) was 0.36
+
+Highest average CO2 concentration: 416.22 on 15/5/2021
+On that same date, the temperature anomaly (F) was 1.42
